@@ -32,7 +32,7 @@ body, h1, h2, h3, h4, p, a {
   height: 32px;
   margin-left: 64px;
   margin-top: 30px;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/logo_place_header.svg);
+  background-image: url(../images/logo_place_header.svg);
   position: absolute;
 }
 .header__title {
@@ -65,7 +65,7 @@ body, h1, h2, h3, h4, p, a {
   display: flex;
   width: 765px;
   height: 608px;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/two_again.png);
+  background-image: url(../images/two_again.png);
   background-size: cover;
   align-self: flex-end;
   justify-self: flex-end;
@@ -106,6 +106,9 @@ body, h1, h2, h3, h4, p, a {
   font-weight: normal;
   line-height: 1.2;
   font-size: 18px;
+  outline: none;
+  text-decoration: none;
+  border-bottom:none; 
 }
 
 .two-columns__main-text{
@@ -201,7 +204,7 @@ body, h1, h2, h3, h4, p, a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/feynman.png);
+  background-image: url(../images/feynman.png);
   background-repeat: no-repeat;
   background-size: 867px 637px;
   background-position: bottom left;
@@ -237,6 +240,9 @@ body, h1, h2, h3, h4, p, a {
   font-size: 36px;
   color:#2f80ed;
   z-index: 1;
+  outline: none;
+  text-decoration: none;
+  border-bottom:none; 
 }
 
 .kaufman {
@@ -320,7 +326,7 @@ body, h1, h2, h3, h4, p, a {
   position:absolute;
   width: 877px;
   height: 877px;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
 }
 
 .footer {
@@ -349,7 +355,7 @@ body, h1, h2, h3, h4, p, a {
 .logo__place_footer {
   width: 228px;
   height: 32px;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/logo_place_footer.svg);
+  background-image: url(../images/logo_place_footer.svg);
 }
 
 .footer__author {
@@ -409,21 +415,21 @@ body, h1, h2, h3, h4, p, a {
 
 #yt {
   margin-right: 10px;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/youtube_color_white.svg);
+  background-image: url(../images/youtube_color_white.svg);
   background-repeat: no-repeat;
   width: 18px;
   height: 18px;
 }
 #vk {
   margin-right: 10px;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/vk_color_white.svg);
+  background-image: url(../images/vk_color_white.svg);
   background-repeat: no-repeat;
   width: 18px;
   height: 18px;
 }
 #tt {
   margin-right: 10px;
-  background-image: url(C:/Users/user/Desktop/dev/sprint1pj/images/tiktok_color_white.svg);
+  background-image: url(../images/tiktok_color_white.svg);
   background-repeat: no-repeat;
   width: 18px;
   height: 18px;
