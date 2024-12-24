@@ -1,0 +1,9 @@
+.table__cell{
+    width:250px;
+    margin-bottom:60px;
+  }
+  
+  .table__cell:nth-of-type(){
+    width:250px;
+    margin-bottom:0px;
+  }

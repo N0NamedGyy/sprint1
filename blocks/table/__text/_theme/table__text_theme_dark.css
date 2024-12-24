@@ -1,0 +1,16 @@
+.table__text_theme_dark{
+    font-weight: normal;
+    line-height: 1.2;
+    font-size: 18px;
+    margin-bottom: 80px;
+  }
+  .table__text_theme_dark:last-of-type{
+    margin-bottom:0px;
+  }
+
+  .table__text_theme_dark:last-of-type{
+    font-weight: normal;
+    line-height: 1.2;
+    font-size: 18px;
+    margin-bottom:0px;
+  }

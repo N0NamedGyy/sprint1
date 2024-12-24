@@ -1,0 +1,26 @@
+.footer__social-icon {
+    float: left;
+    align-self: center; 
+  }
+  
+  #yt {
+    margin-right: 10px;
+    background-image: url(../images/youtube_color_white.svg);
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 18px;
+  }
+  #vk {
+    margin-right: 10px;
+    background-image: url(../images/vk_color_white.svg);
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 18px;
+  }
+  #tt {
+    margin-right: 10px;
+    background-image: url(../images/tiktok_color_white.svg);
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 18px;
+  }
