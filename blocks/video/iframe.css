@@ -1,0 +1,9 @@
+.iframe {
+    width: 515px;
+    height: 316px;
+}
+.iframe:first-of-type {
+    width: 515px;
+    height: 316px;
+    margin-right: 20px;
+}
