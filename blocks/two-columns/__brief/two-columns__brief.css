@@ -8,3 +8,7 @@
     text-decoration: none;
     border-bottom:none; 
   }
+  .two-columns__brief:hover {
+    opacity: 80%;
+    transition: 1ms;
+  }

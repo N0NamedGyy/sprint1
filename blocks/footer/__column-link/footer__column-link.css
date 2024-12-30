@@ -9,3 +9,7 @@
     border-bottom:none;
     text-align: left;  
 }
+.footer__column-link:hover {
+    opacity: 80%;
+    transition: 1ms;
+  }

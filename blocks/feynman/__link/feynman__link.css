@@ -12,3 +12,7 @@
     text-decoration: none;
     border-bottom:none; 
   }
+  .feynman__link:hover {
+    opacity: 80%;
+    transition: 1ms;
+  }

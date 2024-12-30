@@ -5,3 +5,7 @@
   align-items: center;
   justify-content: center;
   }
+  .resources__logo-link:hover {
+    opacity: 80%;
+    transition: 1ms;
+  }
